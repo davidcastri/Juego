@@ -41,6 +41,7 @@ body{
   height: 700px;
   display: flex;
   flex-flow: row wrap;
+  padding: 0px;
 }
 
 .panel-score{
@@ -111,3 +112,4 @@ div[class^='col']{
   height: 96px;
 
 }
+
